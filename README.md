@@ -1,2 +1,2 @@
-# Sabrinagimenez.github.io
+# Sabrigimenez.github.io
 Plantilla entrega botones
